@@ -1,6 +1,6 @@
 ---
 name: Bug/error report
-about: Create a report to help us improve
+about: Create a report to help us improve our game
 title: Bug/error
 labels: ''
 assignees: ''
